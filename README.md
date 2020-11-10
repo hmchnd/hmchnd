@@ -4,7 +4,7 @@
   <img align="left" alt="Hemchand's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-Hi, I'm [Hem Chand], a Frontend Developer 🚀 from India, currently, working with Accenture and working on some web app developments using SAP UI5 web framework. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Hem Chand], a Frontend Developer 🚀 from India, currently working with Accenture as senior software engineer. Working on web app developments using SAP UI5 web framework. Beside's programming, I enjoy eating food and traveling.
 
 <img align="right" alt="GIF" src="https://github.com/hmchnd/hmchnd/blob/main/coderGIF.gif" width="500" height="320" />
 
