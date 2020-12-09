@@ -10,9 +10,10 @@ Hi, I'm [Hem Chand], a Frontend Developer 🚀 from India, currently working wit
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Advance JavaScript, Data Structures and Algorithms using JavaScript; 
-- 💬 Ask me about anything, I am happy to help;
+ 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in Web Development, Open Source Projects.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an full time in Frontend Engineering fields.
 
 **Languages and Tools:**  
 
@@ -21,4 +22,14 @@ Hi, I'm [Hem Chand], a Frontend Developer 🚀 from India, currently working wit
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<details open>
+ <summary> 😇 <b>My Github Summary</b>: </summary>
 
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hmchnd&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hmchnd&theme=tokyonight">
+</p>
+
+</details>
