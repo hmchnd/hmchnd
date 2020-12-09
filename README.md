@@ -27,7 +27,7 @@ Hi, I'm [Hem Chand], a Frontend Developer 🚀 from India, currently working wit
 
 <br>
 
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hmchnd&theme=tokyonight">
 </p>
 
