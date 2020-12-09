@@ -1,10 +1,10 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm HEM CHAND
 </a>
 <a href="https://www.linkedin.com/in/hemchandsharma/">
   <img align="left" alt="Hemchand's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-Hi, I'm [Hem Chand], a Frontend Developer 🚀 from India, currently working with Accenture as senior software engineer. Working on web app developments using SAP UI5 web framework. Beside's programming, I enjoy eating food and traveling.
+Frontend Developer 🚀 from India, currently working with Accenture as senior software engineer. Working on web app developments using SAP UI5 web framework. Beside's programming, I enjoy traveling.
 
 <img align="right" alt="GIF" src="https://github.com/hmchnd/hmchnd/blob/main/coderGIF.gif" width="500" height="320" />
 
