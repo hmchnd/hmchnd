@@ -8,13 +8,6 @@ Frontend Developer 🚀 from India, currently working with Accenture as senior s
 
 <img align="right" alt="GIF" src="https://github.com/hmchnd/hmchnd/blob/main/coderGIF.gif" width="500" height="320" />
 
-**Talking about Personal Stuffs:**
-
- 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in Web Development, Open Source Projects.
-- 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an full time in Frontend Engineering fields.
-
 **Languages and Tools:**  
 
 
