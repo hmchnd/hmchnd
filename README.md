@@ -4,7 +4,7 @@
   <img align="left" alt="Hemchand's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
-Frontend Developer 🚀 from India, currently working with Accenture as senior software engineer. Working on web app developments using SAP UI5 web framework. Beside's programming, I enjoy traveling.
+Frontend Developer 🚀 from India, currently working with Terralink-Global as a senior software engineer. Working on web app developments using SAP UI5 web framework. Besides programming, I enjoy traveling.
 
 <img align="right" alt="GIF" src="https://github.com/hmchnd/hmchnd/blob/main/coderGIF.gif" width="500" height="320" />
 
